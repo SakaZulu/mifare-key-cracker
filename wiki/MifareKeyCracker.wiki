@@ -1,0 +1,9 @@
+#summary Mifare security tool.
+
+= Introduction =
+
+MifareKeyCracker allows to crack sector keys using dictionary or brutal-force attack.
+
+
+= Details =
+
